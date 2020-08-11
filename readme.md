@@ -1,0 +1,1 @@
+stock accounting for heating trade on Laravel
